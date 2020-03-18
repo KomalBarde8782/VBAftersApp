@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>music</key>
+	<array>
+		<string>Alternative Music</string>
+		<string>Blues</string>
+		<string>Classical Music</string>
+		<string>Country Music</string>
+		<string>Dance Music</string>
+		<string>Easy Listening</string>
+		<string>Electronic Music</string>
+		<string>House</string>
+		<string>Hip Hop / Rap</string>
+		<string>Indie Pop</string>
+		<string>Jazz</string>
+		<string>Latin</string>
+		<string>New Age</string>
+		<string>Opera</string>
+		<string>Pop</string>
+		<string>R&amp;amp;B / Soul</string>
+		<string>Reggae</string>
+		<string>Rock</string>
+		<string>Techno</string>
+		<string>World Music / Beats</string>
+	</array>
+	<key>AgeList</key>
+	<array>
+		<string>18+</string>
+		<string>25+</string>
+		<string>35+</string>
+		<string>45+</string>
+		<string>55+</string>
+		<string>65+</string>
+	</array>
+	<key>Genders</key>
+	<array>
+		<string>No gender selection</string>
+		<string>Male</string>
+		<string>Female</string>
+	</array>
+</dict>
+</plist>
